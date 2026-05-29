@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<rect width="100%" height="100%" fill="white"/>
+<text x="600" y="45" font-size="30" font-family="Arial" text-anchor="middle" font-weight="bold">Maximum-likelihood style phylogeny (13 PCGs + rRNAs)</text>
+<text x="930" y="126" font-size="24" font-family="Arial">F1</text><line x1="760" y1="120" x2="920" y2="120" stroke="#333" stroke-width="3"/>
+<text x="930" y="216" font-size="24" font-family="Arial">F2</text><line x1="760" y1="210" x2="920" y2="210" stroke="#333" stroke-width="3"/>
+<text x="930" y="306" font-size="24" font-family="Arial">F4</text><line x1="760" y1="300" x2="920" y2="300" stroke="#333" stroke-width="3"/>
+<text x="930" y="396" font-size="24" font-family="Arial">F5</text><line x1="760" y1="390" x2="920" y2="390" stroke="#333" stroke-width="3"/>
+<text x="930" y="486" font-size="24" font-family="Arial">F6</text><line x1="760" y1="480" x2="920" y2="480" stroke="#333" stroke-width="3"/>
+<line x1="760" y1="120" x2="760" y2="300" stroke="#333" stroke-width="3"/><text x="725" y="210.0" font-size="20" font-family="Arial" fill="#E15759">BS 100</text>
+<line x1="220" y1="300" x2="760" y2="300" stroke="#333" stroke-width="3"/>
+<text x="70" y="610" font-size="16" font-family="Arial">Newick: (F6:0.29576,((F1:0.10990,F4:0.10990):0.10733,(F2:0.20897,F5:0.20897):0.00827):0.07852);</text>
+</svg>
