@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2200" height="1500" viewBox="0 0 2200 1500">
+<rect width="100%" height="100%" fill="white"/>
+<text x="1100" y="45" font-size="32" font-family="Arial" text-anchor="middle" font-weight="bold">Predicted tRNA cloverleaf structures: F4</text>
+<text x="250" y="118" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnI (GAU)</text>
+<line x1="250" y1="350" x2="250" y2="250" stroke="#333" stroke-width="5"/>
+<ellipse cx="250" cy="215" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="230" y1="280" x2="185" y2="235" stroke="#333" stroke-width="5"/><ellipse cx="170" cy="218" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="270" y1="280" x2="315" y2="235" stroke="#333" stroke-width="5"/><ellipse cx="330" cy="218" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="250" y1="350" x2="195" y2="380" stroke="#333" stroke-width="5"/><line x1="250" y1="350" x2="305" y2="380" stroke="#333" stroke-width="5"/>
+<text x="250" y="225" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="250" y="374" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="590" y="118" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnQ (UUG)</text>
+<line x1="590" y1="350" x2="590" y2="250" stroke="#333" stroke-width="5"/>
+<ellipse cx="590" cy="215" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="570" y1="280" x2="525" y2="235" stroke="#333" stroke-width="5"/><ellipse cx="510" cy="218" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="610" y1="280" x2="655" y2="235" stroke="#333" stroke-width="5"/><ellipse cx="670" cy="218" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="590" y1="350" x2="535" y2="380" stroke="#333" stroke-width="5"/><line x1="590" y1="350" x2="645" y2="380" stroke="#333" stroke-width="5"/>
+<text x="590" y="225" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="590" y="374" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="930" y="118" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnM (CAU)</text>
+<line x1="930" y1="350" x2="930" y2="250" stroke="#333" stroke-width="5"/>
+<ellipse cx="930" cy="215" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="910" y1="280" x2="865" y2="235" stroke="#333" stroke-width="5"/><ellipse cx="850" cy="218" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="950" y1="280" x2="995" y2="235" stroke="#333" stroke-width="5"/><ellipse cx="1010" cy="218" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="930" y1="350" x2="875" y2="380" stroke="#333" stroke-width="5"/><line x1="930" y1="350" x2="985" y2="380" stroke="#333" stroke-width="5"/>
+<text x="930" y="225" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="930" y="374" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="1270" y="118" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnW (UCA)</text>
+<line x1="1270" y1="350" x2="1270" y2="250" stroke="#333" stroke-width="5"/>
+<ellipse cx="1270" cy="215" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="1250" y1="280" x2="1205" y2="235" stroke="#333" stroke-width="5"/><ellipse cx="1190" cy="218" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="1290" y1="280" x2="1335" y2="235" stroke="#333" stroke-width="5"/><ellipse cx="1350" cy="218" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="1270" y1="350" x2="1215" y2="380" stroke="#333" stroke-width="5"/><line x1="1270" y1="350" x2="1325" y2="380" stroke="#333" stroke-width="5"/>
+<text x="1270" y="225" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="1270" y="374" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="1610" y="118" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnC (GCA)</text>
+<line x1="1610" y1="350" x2="1610" y2="250" stroke="#333" stroke-width="5"/>
+<ellipse cx="1610" cy="215" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="1590" y1="280" x2="1545" y2="235" stroke="#333" stroke-width="5"/><ellipse cx="1530" cy="218" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="1630" y1="280" x2="1675" y2="235" stroke="#333" stroke-width="5"/><ellipse cx="1690" cy="218" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="1610" y1="350" x2="1555" y2="380" stroke="#333" stroke-width="5"/><line x1="1610" y1="350" x2="1665" y2="380" stroke="#333" stroke-width="5"/>
+<text x="1610" y="225" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="1610" y="374" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="1950" y="118" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnY (GUA)</text>
+<line x1="1950" y1="350" x2="1950" y2="250" stroke="#333" stroke-width="5"/>
+<ellipse cx="1950" cy="215" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="1930" y1="280" x2="1885" y2="235" stroke="#333" stroke-width="5"/><ellipse cx="1870" cy="218" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="1970" y1="280" x2="2015" y2="235" stroke="#333" stroke-width="5"/><ellipse cx="2030" cy="218" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="1950" y1="350" x2="1895" y2="380" stroke="#333" stroke-width="5"/><line x1="1950" y1="350" x2="2005" y2="380" stroke="#333" stroke-width="5"/>
+<text x="1950" y="225" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="1950" y="374" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="250" y="448" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnL2 (UAA)</text>
+<line x1="250" y1="680" x2="250" y2="580" stroke="#333" stroke-width="5"/>
+<ellipse cx="250" cy="545" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="230" y1="610" x2="185" y2="565" stroke="#333" stroke-width="5"/><ellipse cx="170" cy="548" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="270" y1="610" x2="315" y2="565" stroke="#333" stroke-width="5"/><ellipse cx="330" cy="548" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="250" y1="680" x2="195" y2="710" stroke="#333" stroke-width="5"/><line x1="250" y1="680" x2="305" y2="710" stroke="#333" stroke-width="5"/>
+<text x="250" y="555" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="250" y="704" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="590" y="448" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnK (UUU)</text>
+<line x1="590" y1="680" x2="590" y2="580" stroke="#333" stroke-width="5"/>
+<ellipse cx="590" cy="545" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="570" y1="610" x2="525" y2="565" stroke="#333" stroke-width="5"/><ellipse cx="510" cy="548" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="610" y1="610" x2="655" y2="565" stroke="#333" stroke-width="5"/><ellipse cx="670" cy="548" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="590" y1="680" x2="535" y2="710" stroke="#333" stroke-width="5"/><line x1="590" y1="680" x2="645" y2="710" stroke="#333" stroke-width="5"/>
+<text x="590" y="555" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="590" y="704" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="930" y="448" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnD (GUC)</text>
+<line x1="930" y1="680" x2="930" y2="580" stroke="#333" stroke-width="5"/>
+<ellipse cx="930" cy="545" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="910" y1="610" x2="865" y2="565" stroke="#333" stroke-width="5"/><ellipse cx="850" cy="548" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="950" y1="610" x2="995" y2="565" stroke="#333" stroke-width="5"/><ellipse cx="1010" cy="548" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="930" y1="680" x2="875" y2="710" stroke="#333" stroke-width="5"/><line x1="930" y1="680" x2="985" y2="710" stroke="#333" stroke-width="5"/>
+<text x="930" y="555" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="930" y="704" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="1270" y="448" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnG (UCC)</text>
+<line x1="1270" y1="680" x2="1270" y2="580" stroke="#333" stroke-width="5"/>
+<ellipse cx="1270" cy="545" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="1250" y1="610" x2="1205" y2="565" stroke="#333" stroke-width="5"/><ellipse cx="1190" cy="548" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="1290" y1="610" x2="1335" y2="565" stroke="#333" stroke-width="5"/><ellipse cx="1350" cy="548" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="1270" y1="680" x2="1215" y2="710" stroke="#333" stroke-width="5"/><line x1="1270" y1="680" x2="1325" y2="710" stroke="#333" stroke-width="5"/>
+<text x="1270" y="555" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="1270" y="704" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="1610" y="448" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnA (UGC)</text>
+<line x1="1610" y1="680" x2="1610" y2="580" stroke="#333" stroke-width="5"/>
+<ellipse cx="1610" cy="545" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="1590" y1="610" x2="1545" y2="565" stroke="#333" stroke-width="5"/><ellipse cx="1530" cy="548" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="1630" y1="610" x2="1675" y2="565" stroke="#333" stroke-width="5"/><ellipse cx="1690" cy="548" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="1610" y1="680" x2="1555" y2="710" stroke="#333" stroke-width="5"/><line x1="1610" y1="680" x2="1665" y2="710" stroke="#333" stroke-width="5"/>
+<text x="1610" y="555" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="1610" y="704" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="1950" y="448" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnR (UCG)</text>
+<line x1="1950" y1="680" x2="1950" y2="580" stroke="#333" stroke-width="5"/>
+<ellipse cx="1950" cy="545" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="1930" y1="610" x2="1885" y2="565" stroke="#333" stroke-width="5"/><ellipse cx="1870" cy="548" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="1970" y1="610" x2="2015" y2="565" stroke="#333" stroke-width="5"/><ellipse cx="2030" cy="548" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="1950" y1="680" x2="1895" y2="710" stroke="#333" stroke-width="5"/><line x1="1950" y1="680" x2="2005" y2="710" stroke="#333" stroke-width="5"/>
+<text x="1950" y="555" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="1950" y="704" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="250" y="778" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnN (GUU)</text>
+<line x1="250" y1="1010" x2="250" y2="910" stroke="#333" stroke-width="5"/>
+<ellipse cx="250" cy="875" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="230" y1="940" x2="185" y2="895" stroke="#333" stroke-width="5"/><ellipse cx="170" cy="878" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="270" y1="940" x2="315" y2="895" stroke="#333" stroke-width="5"/><ellipse cx="330" cy="878" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="250" y1="1010" x2="195" y2="1040" stroke="#333" stroke-width="5"/><line x1="250" y1="1010" x2="305" y2="1040" stroke="#333" stroke-width="5"/>
+<text x="250" y="885" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="250" y="1034" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="590" y="778" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnS1 (GCU)</text>
+<line x1="590" y1="1010" x2="590" y2="910" stroke="#333" stroke-width="5"/>
+<ellipse cx="590" cy="875" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="570" y1="940" x2="525" y2="895" stroke="#333" stroke-width="5"/><ellipse cx="510" cy="878" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="610" y1="940" x2="655" y2="895" stroke="#333" stroke-width="5"/><ellipse cx="670" cy="878" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="590" y1="1010" x2="535" y2="1040" stroke="#333" stroke-width="5"/><line x1="590" y1="1010" x2="645" y2="1040" stroke="#333" stroke-width="5"/>
+<text x="590" y="885" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="590" y="1034" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="930" y="778" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnE (UUC)</text>
+<line x1="930" y1="1010" x2="930" y2="910" stroke="#333" stroke-width="5"/>
+<ellipse cx="930" cy="875" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="910" y1="940" x2="865" y2="895" stroke="#333" stroke-width="5"/><ellipse cx="850" cy="878" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="950" y1="940" x2="995" y2="895" stroke="#333" stroke-width="5"/><ellipse cx="1010" cy="878" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="930" y1="1010" x2="875" y2="1040" stroke="#333" stroke-width="5"/><line x1="930" y1="1010" x2="985" y2="1040" stroke="#333" stroke-width="5"/>
+<text x="930" y="885" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="930" y="1034" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="1270" y="778" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnF (GAA)</text>
+<line x1="1270" y1="1010" x2="1270" y2="910" stroke="#333" stroke-width="5"/>
+<ellipse cx="1270" cy="875" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="1250" y1="940" x2="1205" y2="895" stroke="#333" stroke-width="5"/><ellipse cx="1190" cy="878" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="1290" y1="940" x2="1335" y2="895" stroke="#333" stroke-width="5"/><ellipse cx="1350" cy="878" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="1270" y1="1010" x2="1215" y2="1040" stroke="#333" stroke-width="5"/><line x1="1270" y1="1010" x2="1325" y2="1040" stroke="#333" stroke-width="5"/>
+<text x="1270" y="885" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="1270" y="1034" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="1610" y="778" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnH (GUG)</text>
+<line x1="1610" y1="1010" x2="1610" y2="910" stroke="#333" stroke-width="5"/>
+<ellipse cx="1610" cy="875" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="1590" y1="940" x2="1545" y2="895" stroke="#333" stroke-width="5"/><ellipse cx="1530" cy="878" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="1630" y1="940" x2="1675" y2="895" stroke="#333" stroke-width="5"/><ellipse cx="1690" cy="878" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="1610" y1="1010" x2="1555" y2="1040" stroke="#333" stroke-width="5"/><line x1="1610" y1="1010" x2="1665" y2="1040" stroke="#333" stroke-width="5"/>
+<text x="1610" y="885" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="1610" y="1034" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="1950" y="778" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnT (UGU)</text>
+<line x1="1950" y1="1010" x2="1950" y2="910" stroke="#333" stroke-width="5"/>
+<ellipse cx="1950" cy="875" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="1930" y1="940" x2="1885" y2="895" stroke="#333" stroke-width="5"/><ellipse cx="1870" cy="878" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="1970" y1="940" x2="2015" y2="895" stroke="#333" stroke-width="5"/><ellipse cx="2030" cy="878" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="1950" y1="1010" x2="1895" y2="1040" stroke="#333" stroke-width="5"/><line x1="1950" y1="1010" x2="2005" y2="1040" stroke="#333" stroke-width="5"/>
+<text x="1950" y="885" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="1950" y="1034" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="250" y="1108" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnP (UGG)</text>
+<line x1="250" y1="1340" x2="250" y2="1240" stroke="#333" stroke-width="5"/>
+<ellipse cx="250" cy="1205" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="230" y1="1270" x2="185" y2="1225" stroke="#333" stroke-width="5"/><ellipse cx="170" cy="1208" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="270" y1="1270" x2="315" y2="1225" stroke="#333" stroke-width="5"/><ellipse cx="330" cy="1208" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="250" y1="1340" x2="195" y2="1370" stroke="#333" stroke-width="5"/><line x1="250" y1="1340" x2="305" y2="1370" stroke="#333" stroke-width="5"/>
+<text x="250" y="1215" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="250" y="1364" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="590" y="1108" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnS2 (UGA)</text>
+<line x1="590" y1="1340" x2="590" y2="1240" stroke="#333" stroke-width="5"/>
+<ellipse cx="590" cy="1205" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="570" y1="1270" x2="525" y2="1225" stroke="#333" stroke-width="5"/><ellipse cx="510" cy="1208" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="610" y1="1270" x2="655" y2="1225" stroke="#333" stroke-width="5"/><ellipse cx="670" cy="1208" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="590" y1="1340" x2="535" y2="1370" stroke="#333" stroke-width="5"/><line x1="590" y1="1340" x2="645" y2="1370" stroke="#333" stroke-width="5"/>
+<text x="590" y="1215" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="590" y="1364" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="930" y="1108" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnL1 (UAG)</text>
+<line x1="930" y1="1340" x2="930" y2="1240" stroke="#333" stroke-width="5"/>
+<ellipse cx="930" cy="1205" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="910" y1="1270" x2="865" y2="1225" stroke="#333" stroke-width="5"/><ellipse cx="850" cy="1208" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="950" y1="1270" x2="995" y2="1225" stroke="#333" stroke-width="5"/><ellipse cx="1010" cy="1208" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="930" y1="1340" x2="875" y2="1370" stroke="#333" stroke-width="5"/><line x1="930" y1="1340" x2="985" y2="1370" stroke="#333" stroke-width="5"/>
+<text x="930" y="1215" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="930" y="1364" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+<text x="1270" y="1108" font-size="20" text-anchor="middle" font-family="Arial" font-weight="bold">trnV (UAC)</text>
+<line x1="1270" y1="1340" x2="1270" y2="1240" stroke="#333" stroke-width="5"/>
+<ellipse cx="1270" cy="1205" rx="38" ry="32" fill="none" stroke="#59A14F" stroke-width="5"/>
+<line x1="1250" y1="1270" x2="1205" y2="1225" stroke="#333" stroke-width="5"/><ellipse cx="1190" cy="1208" rx="34" ry="30" fill="none" stroke="#4C78A8" stroke-width="5"/>
+<line x1="1290" y1="1270" x2="1335" y2="1225" stroke="#333" stroke-width="5"/><ellipse cx="1350" cy="1208" rx="34" ry="30" fill="none" stroke="#E15759" stroke-width="5"/>
+<line x1="1270" y1="1340" x2="1215" y2="1370" stroke="#333" stroke-width="5"/><line x1="1270" y1="1340" x2="1325" y2="1370" stroke="#333" stroke-width="5"/>
+<text x="1270" y="1215" font-size="14" text-anchor="middle" font-family="Arial">anticodon</text><text x="1270" y="1364" font-size="14" text-anchor="middle" font-family="Arial">acceptor stem</text>
+</svg>

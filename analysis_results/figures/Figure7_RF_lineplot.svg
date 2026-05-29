@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="750" viewBox="0 0 1800 750">
+<rect width="100%" height="100%" fill="white"/>
+<text x="900" y="45" font-size="30" text-anchor="middle" font-family="Arial" font-weight="bold">Single-gene rearrangement frequency (RF)</text>
+<polyline points="100.0,550.0 144.4,550.0 188.9,550.0 233.3,550.0 277.8,550.0 322.2,550.0 366.7,550.0 411.1,550.0 455.6,550.0 500.0,550.0 544.4,550.0 588.9,550.0 633.3,550.0 677.8,550.0 722.2,550.0 766.7,550.0 811.1,550.0 855.6,550.0 900.0,550.0 944.4,550.0 988.9,550.0 1033.3,550.0 1077.8,550.0 1122.2,550.0 1166.7,550.0 1211.1,550.0 1255.6,550.0 1300.0,550.0 1344.4,550.0 1388.9,550.0 1433.3,550.0 1477.8,550.0 1522.2,550.0 1566.7,550.0 1611.1,550.0 1655.6,550.0 1700.0,550.0" fill="none" stroke="#E15759" stroke-width="4"/>
+<circle cx="100.0" cy="550.0" r="5" fill="#E15759"/><text x="100.0" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 100.0 620)">trnI</text>
+<circle cx="144.4" cy="550.0" r="5" fill="#E15759"/><text x="144.4" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 144.4 620)">trnQ</text>
+<circle cx="188.9" cy="550.0" r="5" fill="#E15759"/><text x="188.9" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 188.9 620)">trnM</text>
+<circle cx="233.3" cy="550.0" r="5" fill="#E15759"/><text x="233.3" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 233.3 620)">nad2</text>
+<circle cx="277.8" cy="550.0" r="5" fill="#E15759"/><text x="277.8" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 277.8 620)">trnW</text>
+<circle cx="322.2" cy="550.0" r="5" fill="#E15759"/><text x="322.2" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 322.2 620)">trnC</text>
+<circle cx="366.7" cy="550.0" r="5" fill="#E15759"/><text x="366.7" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 366.7 620)">trnY</text>
+<circle cx="411.1" cy="550.0" r="5" fill="#E15759"/><text x="411.1" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 411.1 620)">cox1</text>
+<circle cx="455.6" cy="550.0" r="5" fill="#E15759"/><text x="455.6" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 455.6 620)">trnL2</text>
+<circle cx="500.0" cy="550.0" r="5" fill="#E15759"/><text x="500.0" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 500.0 620)">cox2</text>
+<circle cx="544.4" cy="550.0" r="5" fill="#E15759"/><text x="544.4" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 544.4 620)">trnK</text>
+<circle cx="588.9" cy="550.0" r="5" fill="#E15759"/><text x="588.9" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 588.9 620)">trnD</text>
+<circle cx="633.3" cy="550.0" r="5" fill="#E15759"/><text x="633.3" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 633.3 620)">atp8</text>
+<circle cx="677.8" cy="550.0" r="5" fill="#E15759"/><text x="677.8" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 677.8 620)">atp6</text>
+<circle cx="722.2" cy="550.0" r="5" fill="#E15759"/><text x="722.2" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 722.2 620)">cox3</text>
+<circle cx="766.7" cy="550.0" r="5" fill="#E15759"/><text x="766.7" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 766.7 620)">trnG</text>
+<circle cx="811.1" cy="550.0" r="5" fill="#E15759"/><text x="811.1" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 811.1 620)">nad3</text>
+<circle cx="855.6" cy="550.0" r="5" fill="#E15759"/><text x="855.6" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 855.6 620)">trnA</text>
+<circle cx="900.0" cy="550.0" r="5" fill="#E15759"/><text x="900.0" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 900.0 620)">trnR</text>
+<circle cx="944.4" cy="550.0" r="5" fill="#E15759"/><text x="944.4" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 944.4 620)">trnN</text>
+<circle cx="988.9" cy="550.0" r="5" fill="#E15759"/><text x="988.9" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 988.9 620)">trnS1</text>
+<circle cx="1033.3" cy="550.0" r="5" fill="#E15759"/><text x="1033.3" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1033.3 620)">trnE</text>
+<circle cx="1077.8" cy="550.0" r="5" fill="#E15759"/><text x="1077.8" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1077.8 620)">trnF</text>
+<circle cx="1122.2" cy="550.0" r="5" fill="#E15759"/><text x="1122.2" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1122.2 620)">nad5</text>
+<circle cx="1166.7" cy="550.0" r="5" fill="#E15759"/><text x="1166.7" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1166.7 620)">trnH</text>
+<circle cx="1211.1" cy="550.0" r="5" fill="#E15759"/><text x="1211.1" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1211.1 620)">nad4</text>
+<circle cx="1255.6" cy="550.0" r="5" fill="#E15759"/><text x="1255.6" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1255.6 620)">nad4l</text>
+<circle cx="1300.0" cy="550.0" r="5" fill="#E15759"/><text x="1300.0" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1300.0 620)">trnT</text>
+<circle cx="1344.4" cy="550.0" r="5" fill="#E15759"/><text x="1344.4" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1344.4 620)">trnP</text>
+<circle cx="1388.9" cy="550.0" r="5" fill="#E15759"/><text x="1388.9" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1388.9 620)">nad6</text>
+<circle cx="1433.3" cy="550.0" r="5" fill="#E15759"/><text x="1433.3" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1433.3 620)">cob</text>
+<circle cx="1477.8" cy="550.0" r="5" fill="#E15759"/><text x="1477.8" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1477.8 620)">trnS2</text>
+<circle cx="1522.2" cy="550.0" r="5" fill="#E15759"/><text x="1522.2" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1522.2 620)">nad1</text>
+<circle cx="1566.7" cy="550.0" r="5" fill="#E15759"/><text x="1566.7" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1566.7 620)">trnL1</text>
+<circle cx="1611.1" cy="550.0" r="5" fill="#E15759"/><text x="1611.1" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1611.1 620)">rrnL</text>
+<circle cx="1655.6" cy="550.0" r="5" fill="#E15759"/><text x="1655.6" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1655.6 620)">trnV</text>
+<circle cx="1700.0" cy="550.0" r="5" fill="#E15759"/><text x="1700.0" y="620" font-size="12" text-anchor="middle" font-family="Arial" transform="rotate(65 1700.0 620)">rrnS</text>
+<line x1="100" y1="550" x2="1700" y2="550" stroke="#333"/><line x1="100" y1="80" x2="100" y2="550" stroke="#333"/>
+</svg>

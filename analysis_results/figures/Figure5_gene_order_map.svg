@@ -1,0 +1,265 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="650" viewBox="0 0 1800 650">
+<rect width="100%" height="100%" fill="white"/>
+<text x="900" y="45" font-size="30" text-anchor="middle" font-family="Arial" font-weight="bold">Gene order map and rearrangement comparison</text>
+<text x="35" y="124" font-size="22" font-family="Arial">F1</text>
+<rect x="120.0" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="126.8" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="133.7" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="140.8" y="100" width="104.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="193.2" y="158" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 193.2 158)">nad2</text>
+<rect x="245.6" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="252.7" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="259.5" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="266.4" y="100" width="163.7" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="348.2" y="158" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 348.2 158)">cox1</text>
+<rect x="430.1" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="437.1" y="100" width="72.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="473.6" y="158" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 473.6 158)">cox2</text>
+<rect x="510.0" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="517.1" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="524.2" y="100" width="16.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<rect x="541.1" y="100" width="72.6" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="577.4" y="158" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 577.4 158)">atp6</text>
+<rect x="613.7" y="100" width="83.1" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="655.2" y="158" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 655.2 158)">cox3</text>
+<rect x="696.8" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="703.8" y="100" width="37.7" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="722.7" y="158" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 722.7 158)">nad3</text>
+<rect x="741.5" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="748.5" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="755.4" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="762.3" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="769.3" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="776.2" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="783.1" y="100" width="182.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="874.5" y="158" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 874.5 158)">nad5</text>
+<rect x="966.0" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="972.9" y="100" width="142.6" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1044.2" y="158" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1044.2 158)">nad4</text>
+<rect x="1115.5" y="100" width="31.3" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1131.1" y="158" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1131.1 158)">nad4l</text>
+<rect x="1146.8" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1153.7" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1160.6" y="100" width="54.3" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1187.8" y="158" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1187.8 158)">nad6</text>
+<rect x="1215.0" y="100" width="121.2" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1275.6" y="158" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1275.6 158)">cob</text>
+<rect x="1336.1" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1343.1" y="100" width="99.1" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1392.6" y="158" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1392.6 158)">nad1</text>
+<rect x="1442.2" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1449.2" y="100" width="140.7" height="36" fill="#E15759" stroke="#fff" stroke-width="1"/>
+<text x="1519.5" y="158" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1519.5 158)">rrnL</text>
+<rect x="1589.9" y="100" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1596.9" y="100" width="83.1" height="36" fill="#E15759" stroke="#fff" stroke-width="1"/>
+<text x="1638.4" y="158" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1638.4 158)">rrnS</text>
+<text x="35" y="219" font-size="22" font-family="Arial">F2</text>
+<rect x="120.0" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="126.8" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="133.7" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="140.8" y="195" width="104.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="193.2" y="253" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 193.2 253)">nad2</text>
+<rect x="245.6" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="252.7" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="259.5" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="266.4" y="195" width="163.7" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="348.2" y="253" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 348.2 253)">cox1</text>
+<rect x="430.1" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="437.1" y="195" width="72.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="473.6" y="253" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 473.6 253)">cox2</text>
+<rect x="510.0" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="517.1" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="524.2" y="195" width="16.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<rect x="541.1" y="195" width="72.6" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="577.4" y="253" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 577.4 253)">atp6</text>
+<rect x="613.7" y="195" width="83.1" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="655.2" y="253" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 655.2 253)">cox3</text>
+<rect x="696.8" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="703.8" y="195" width="37.7" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="722.7" y="253" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 722.7 253)">nad3</text>
+<rect x="741.5" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="748.5" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="755.4" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="762.3" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="769.3" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="776.2" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="783.1" y="195" width="182.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="874.5" y="253" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 874.5 253)">nad5</text>
+<rect x="966.0" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="972.9" y="195" width="142.6" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1044.2" y="253" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1044.2 253)">nad4</text>
+<rect x="1115.5" y="195" width="31.3" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1131.1" y="253" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1131.1 253)">nad4l</text>
+<rect x="1146.8" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1153.7" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1160.6" y="195" width="54.3" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1187.8" y="253" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1187.8 253)">nad6</text>
+<rect x="1215.0" y="195" width="121.2" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1275.6" y="253" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1275.6 253)">cob</text>
+<rect x="1336.1" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1343.1" y="195" width="99.1" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1392.6" y="253" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1392.6 253)">nad1</text>
+<rect x="1442.2" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1449.2" y="195" width="140.7" height="36" fill="#E15759" stroke="#fff" stroke-width="1"/>
+<text x="1519.5" y="253" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1519.5 253)">rrnL</text>
+<rect x="1589.9" y="195" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1596.9" y="195" width="83.1" height="36" fill="#E15759" stroke="#fff" stroke-width="1"/>
+<text x="1638.4" y="253" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1638.4 253)">rrnS</text>
+<text x="35" y="314" font-size="22" font-family="Arial">F4</text>
+<rect x="120.0" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="126.8" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="133.7" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="140.8" y="290" width="104.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="193.2" y="348" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 193.2 348)">nad2</text>
+<rect x="245.6" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="252.7" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="259.5" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="266.4" y="290" width="163.7" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="348.2" y="348" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 348.2 348)">cox1</text>
+<rect x="430.1" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="437.1" y="290" width="72.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="473.6" y="348" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 473.6 348)">cox2</text>
+<rect x="510.0" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="517.1" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="524.2" y="290" width="16.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<rect x="541.1" y="290" width="72.6" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="577.4" y="348" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 577.4 348)">atp6</text>
+<rect x="613.7" y="290" width="83.1" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="655.2" y="348" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 655.2 348)">cox3</text>
+<rect x="696.8" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="703.8" y="290" width="37.7" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="722.7" y="348" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 722.7 348)">nad3</text>
+<rect x="741.5" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="748.5" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="755.4" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="762.3" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="769.3" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="776.2" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="783.1" y="290" width="182.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="874.5" y="348" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 874.5 348)">nad5</text>
+<rect x="966.0" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="972.9" y="290" width="142.6" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1044.2" y="348" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1044.2 348)">nad4</text>
+<rect x="1115.5" y="290" width="31.3" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1131.1" y="348" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1131.1 348)">nad4l</text>
+<rect x="1146.8" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1153.7" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1160.6" y="290" width="54.3" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1187.8" y="348" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1187.8 348)">nad6</text>
+<rect x="1215.0" y="290" width="121.2" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1275.6" y="348" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1275.6 348)">cob</text>
+<rect x="1336.1" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1343.1" y="290" width="99.1" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1392.6" y="348" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1392.6 348)">nad1</text>
+<rect x="1442.2" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1449.2" y="290" width="140.7" height="36" fill="#E15759" stroke="#fff" stroke-width="1"/>
+<text x="1519.5" y="348" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1519.5 348)">rrnL</text>
+<rect x="1589.9" y="290" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1596.9" y="290" width="83.1" height="36" fill="#E15759" stroke="#fff" stroke-width="1"/>
+<text x="1638.4" y="348" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1638.4 348)">rrnS</text>
+<text x="35" y="409" font-size="22" font-family="Arial">F5</text>
+<rect x="120.0" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="126.8" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="133.7" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="140.8" y="385" width="104.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="193.2" y="443" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 193.2 443)">nad2</text>
+<rect x="245.6" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="252.7" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="259.5" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="266.4" y="385" width="163.7" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="348.2" y="443" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 348.2 443)">cox1</text>
+<rect x="430.1" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="437.1" y="385" width="72.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="473.6" y="443" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 473.6 443)">cox2</text>
+<rect x="510.0" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="517.1" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="524.2" y="385" width="16.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<rect x="541.1" y="385" width="72.6" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="577.4" y="443" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 577.4 443)">atp6</text>
+<rect x="613.7" y="385" width="83.1" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="655.2" y="443" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 655.2 443)">cox3</text>
+<rect x="696.8" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="703.8" y="385" width="37.7" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="722.7" y="443" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 722.7 443)">nad3</text>
+<rect x="741.5" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="748.5" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="755.4" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="762.3" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="769.3" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="776.2" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="783.1" y="385" width="182.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="874.5" y="443" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 874.5 443)">nad5</text>
+<rect x="966.0" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="972.9" y="385" width="142.6" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1044.2" y="443" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1044.2 443)">nad4</text>
+<rect x="1115.5" y="385" width="31.3" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1131.1" y="443" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1131.1 443)">nad4l</text>
+<rect x="1146.8" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1153.7" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1160.6" y="385" width="54.3" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1187.8" y="443" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1187.8 443)">nad6</text>
+<rect x="1215.0" y="385" width="121.2" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1275.6" y="443" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1275.6 443)">cob</text>
+<rect x="1336.1" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1343.1" y="385" width="99.1" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1392.6" y="443" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1392.6 443)">nad1</text>
+<rect x="1442.2" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1449.2" y="385" width="140.7" height="36" fill="#E15759" stroke="#fff" stroke-width="1"/>
+<text x="1519.5" y="443" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1519.5 443)">rrnL</text>
+<rect x="1589.9" y="385" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1596.9" y="385" width="83.1" height="36" fill="#E15759" stroke="#fff" stroke-width="1"/>
+<text x="1638.4" y="443" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1638.4 443)">rrnS</text>
+<text x="35" y="504" font-size="22" font-family="Arial">F6</text>
+<rect x="120.0" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="126.8" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="133.7" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="140.8" y="480" width="104.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="193.2" y="538" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 193.2 538)">nad2</text>
+<rect x="245.6" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="252.7" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="259.5" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="266.4" y="480" width="163.7" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="348.2" y="538" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 348.2 538)">cox1</text>
+<rect x="430.1" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="437.1" y="480" width="72.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="473.6" y="538" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 473.6 538)">cox2</text>
+<rect x="510.0" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="517.1" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="524.2" y="480" width="16.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<rect x="541.1" y="480" width="72.6" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="577.4" y="538" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 577.4 538)">atp6</text>
+<rect x="613.7" y="480" width="83.1" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="655.2" y="538" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 655.2 538)">cox3</text>
+<rect x="696.8" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="703.8" y="480" width="37.7" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="722.7" y="538" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 722.7 538)">nad3</text>
+<rect x="741.5" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="748.5" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="755.4" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="762.3" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="769.3" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="776.2" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="783.1" y="480" width="182.9" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="874.5" y="538" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 874.5 538)">nad5</text>
+<rect x="966.0" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="972.9" y="480" width="142.6" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1044.2" y="538" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1044.2 538)">nad4</text>
+<rect x="1115.5" y="480" width="31.3" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1131.1" y="538" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1131.1 538)">nad4l</text>
+<rect x="1146.8" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1153.7" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1160.6" y="480" width="54.3" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1187.8" y="538" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1187.8 538)">nad6</text>
+<rect x="1215.0" y="480" width="121.2" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1275.6" y="538" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1275.6 538)">cob</text>
+<rect x="1336.1" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1343.1" y="480" width="99.1" height="36" fill="#4C78A8" stroke="#fff" stroke-width="1"/>
+<text x="1392.6" y="538" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1392.6 538)">nad1</text>
+<rect x="1442.2" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1449.2" y="480" width="140.7" height="36" fill="#E15759" stroke="#fff" stroke-width="1"/>
+<text x="1519.5" y="538" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1519.5 538)">rrnL</text>
+<rect x="1589.9" y="480" width="8.0" height="36" fill="#59A14F" stroke="#fff" stroke-width="1"/>
+<rect x="1596.9" y="480" width="83.1" height="36" fill="#E15759" stroke="#fff" stroke-width="1"/>
+<text x="1638.4" y="538" font-size="11" text-anchor="middle" font-family="Arial" transform="rotate(60 1638.4 538)">rrnS</text>
+<text x="120" y="610" font-size="20" font-family="Arial">Magenta outlines indicate order differences relative to F1 (none detected under reference-guided annotation).</text>
+</svg>

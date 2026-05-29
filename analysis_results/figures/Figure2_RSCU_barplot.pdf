@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="950" viewBox="0 0 1800 950">
+<rect width="100%" height="100%" fill="white"/>
+<text x="900" y="45" font-size="32" font-family="Arial" text-anchor="middle" font-weight="bold">RSCU of 13 mitochondrial PCGs</text>
+<line x1="110" y1="740" x2="1740" y2="740" stroke="#333"/><line x1="110" y1="80" x2="110" y2="740" stroke="#333"/>
+<line x1="105" y1="740.0" x2="1740" y2="740.0" stroke="#eee"/><text x="98" y="745.0" font-size="16" text-anchor="end" font-family="Arial">0</text>
+<line x1="105" y1="658.5728033163076" x2="1740" y2="658.5728033163076" stroke="#eee"/><text x="98" y="663.5728033163076" font-size="16" text-anchor="end" font-family="Arial">0.5</text>
+<line x1="105" y1="577.1456066326152" x2="1740" y2="577.1456066326152" stroke="#eee"/><text x="98" y="582.1456066326152" font-size="16" text-anchor="end" font-family="Arial">1</text>
+<line x1="105" y1="495.71840994892295" x2="1740" y2="495.71840994892295" stroke="#eee"/><text x="98" y="500.71840994892295" font-size="16" text-anchor="end" font-family="Arial">1.5</text>
+<line x1="105" y1="414.29121326523057" x2="1740" y2="414.29121326523057" stroke="#eee"/><text x="98" y="419.29121326523057" font-size="16" text-anchor="end" font-family="Arial">2</text>
+<line x1="105" y1="332.8640165815382" x2="1740" y2="332.8640165815382" stroke="#eee"/><text x="98" y="337.8640165815382" font-size="16" text-anchor="end" font-family="Arial">2.5</text>
+<line x1="105" y1="251.43681989784585" x2="1740" y2="251.43681989784585" stroke="#eee"/><text x="98" y="256.43681989784585" font-size="16" text-anchor="end" font-family="Arial">3</text>
+<rect x="113.2" y="429.6" width="19.7" height="310.4" fill="#4E79A7"/>
+<text x="123.0" y="762" font-size="13" transform="rotate(65 123.0 762)" font-family="Arial">GCT(A)</text>
+<rect x="139.4" y="705.0" width="19.7" height="35.0" fill="#4E79A7"/>
+<text x="149.3" y="762" font-size="13" transform="rotate(65 149.3 762)" font-family="Arial">GCC(A)</text>
+<rect x="165.7" y="482.1" width="19.7" height="257.9" fill="#4E79A7"/>
+<text x="175.6" y="762" font-size="13" transform="rotate(65 175.6 762)" font-family="Arial">GCA(A)</text>
+<rect x="192.0" y="691.9" width="19.7" height="48.1" fill="#4E79A7"/>
+<text x="201.9" y="762" font-size="13" transform="rotate(65 201.9 762)" font-family="Arial">GCG(A)</text>
+<rect x="218.3" y="488.4" width="19.7" height="251.6" fill="#76B7B2"/>
+<text x="228.2" y="762" font-size="13" transform="rotate(65 228.2 762)" font-family="Arial">TGT(C)</text>
+<rect x="244.6" y="665.9" width="19.7" height="74.1" fill="#76B7B2"/>
+<text x="254.5" y="762" font-size="13" transform="rotate(65 254.5 762)" font-family="Arial">TGC(C)</text>
+<rect x="270.9" y="465.4" width="19.7" height="274.6" fill="#59A14F"/>
+<text x="280.8" y="762" font-size="13" transform="rotate(65 280.8 762)" font-family="Arial">GAT(D)</text>
+<rect x="297.2" y="688.9" width="19.7" height="51.1" fill="#59A14F"/>
+<text x="307.0" y="762" font-size="13" transform="rotate(65 307.0 762)" font-family="Arial">GAC(D)</text>
+<rect x="323.5" y="455.0" width="19.7" height="285.0" fill="#EDC948"/>
+<text x="333.3" y="762" font-size="13" transform="rotate(65 333.3 762)" font-family="Arial">GAA(E)</text>
+<rect x="349.8" y="699.3" width="19.7" height="40.7" fill="#EDC948"/>
+<text x="359.6" y="762" font-size="13" transform="rotate(65 359.6 762)" font-family="Arial">GAG(E)</text>
+<rect x="376.1" y="461.2" width="19.7" height="278.8" fill="#F28E2B"/>
+<text x="385.9" y="762" font-size="13" transform="rotate(65 385.9 762)" font-family="Arial">TTT(F)</text>
+<rect x="402.3" y="693.1" width="19.7" height="46.9" fill="#F28E2B"/>
+<text x="412.2" y="762" font-size="13" transform="rotate(65 412.2 762)" font-family="Arial">TTC(F)</text>
+<rect x="428.6" y="534.8" width="19.7" height="205.2" fill="#E15759"/>
+<text x="438.5" y="762" font-size="13" transform="rotate(65 438.5 762)" font-family="Arial">GGT(G)</text>
+<rect x="454.9" y="727.2" width="19.7" height="12.8" fill="#E15759"/>
+<text x="464.8" y="762" font-size="13" transform="rotate(65 464.8 762)" font-family="Arial">GGC(G)</text>
+<rect x="481.2" y="373.3" width="19.7" height="366.7" fill="#E15759"/>
+<text x="491.1" y="762" font-size="13" transform="rotate(65 491.1 762)" font-family="Arial">GGA(G)</text>
+<rect x="507.5" y="673.3" width="19.7" height="66.7" fill="#E15759"/>
+<text x="517.4" y="762" font-size="13" transform="rotate(65 517.4 762)" font-family="Arial">GGG(G)</text>
+<rect x="533.8" y="451.7" width="19.7" height="288.3" fill="#4E79A7"/>
+<text x="543.7" y="762" font-size="13" transform="rotate(65 543.7 762)" font-family="Arial">CAT(H)</text>
+<rect x="560.1" y="702.6" width="19.7" height="37.4" fill="#4E79A7"/>
+<text x="569.9" y="762" font-size="13" transform="rotate(65 569.9 762)" font-family="Arial">CAC(H)</text>
+<rect x="586.4" y="447.5" width="19.7" height="292.5" fill="#76B7B2"/>
+<text x="596.2" y="762" font-size="13" transform="rotate(65 596.2 762)" font-family="Arial">ATT(I)</text>
+<rect x="612.7" y="706.8" width="19.7" height="33.2" fill="#76B7B2"/>
+<text x="622.5" y="762" font-size="13" transform="rotate(65 622.5 762)" font-family="Arial">ATC(I)</text>
+<rect x="639.0" y="457.2" width="19.7" height="282.8" fill="#59A14F"/>
+<text x="648.8" y="762" font-size="13" transform="rotate(65 648.8 762)" font-family="Arial">AAA(K)</text>
+<rect x="665.3" y="697.1" width="19.7" height="42.9" fill="#59A14F"/>
+<text x="675.1" y="762" font-size="13" transform="rotate(65 675.1 762)" font-family="Arial">AAG(K)</text>
+<rect x="691.5" y="80.0" width="19.7" height="660.0" fill="#EDC948"/>
+<text x="701.4" y="762" font-size="13" transform="rotate(65 701.4 762)" font-family="Arial">TTA(L)</text>
+<rect x="717.8" y="625.1" width="19.7" height="114.9" fill="#EDC948"/>
+<text x="727.7" y="762" font-size="13" transform="rotate(65 727.7 762)" font-family="Arial">TTG(L)</text>
+<rect x="744.1" y="666.9" width="19.7" height="73.1" fill="#EDC948"/>
+<text x="754.0" y="762" font-size="13" transform="rotate(65 754.0 762)" font-family="Arial">CTT(L)</text>
+<rect x="770.4" y="718.0" width="19.7" height="22.0" fill="#EDC948"/>
+<text x="780.3" y="762" font-size="13" transform="rotate(65 780.3 762)" font-family="Arial">CTC(L)</text>
+<rect x="796.7" y="653.4" width="19.7" height="86.6" fill="#EDC948"/>
+<text x="806.6" y="762" font-size="13" transform="rotate(65 806.6 762)" font-family="Arial">CTA(L)</text>
+<rect x="823.0" y="719.3" width="19.7" height="20.7" fill="#EDC948"/>
+<text x="832.9" y="762" font-size="13" transform="rotate(65 832.9 762)" font-family="Arial">CTG(L)</text>
+<rect x="849.3" y="465.4" width="19.7" height="274.6" fill="#F28E2B"/>
+<text x="859.1" y="762" font-size="13" transform="rotate(65 859.1 762)" font-family="Arial">ATA(M)</text>
+<rect x="875.6" y="688.9" width="19.7" height="51.1" fill="#F28E2B"/>
+<text x="885.4" y="762" font-size="13" transform="rotate(65 885.4 762)" font-family="Arial">ATG(M)</text>
+<rect x="901.9" y="437.6" width="19.7" height="302.4" fill="#E15759"/>
+<text x="911.7" y="762" font-size="13" transform="rotate(65 911.7 762)" font-family="Arial">AAT(N)</text>
+<rect x="928.2" y="716.6" width="19.7" height="23.4" fill="#E15759"/>
+<text x="938.0" y="762" font-size="13" transform="rotate(65 938.0 762)" font-family="Arial">AAC(N)</text>
+<rect x="954.4" y="470.3" width="19.7" height="269.7" fill="#4E79A7"/>
+<text x="964.3" y="762" font-size="13" transform="rotate(65 964.3 762)" font-family="Arial">CCT(P)</text>
+<rect x="980.7" y="701.5" width="19.7" height="38.5" fill="#4E79A7"/>
+<text x="990.6" y="762" font-size="13" transform="rotate(65 990.6 762)" font-family="Arial">CCC(P)</text>
+<rect x="1007.0" y="435.3" width="19.7" height="304.7" fill="#4E79A7"/>
+<text x="1016.9" y="762" font-size="13" transform="rotate(65 1016.9 762)" font-family="Arial">CCA(P)</text>
+<rect x="1033.3" y="701.5" width="19.7" height="38.5" fill="#4E79A7"/>
+<text x="1043.2" y="762" font-size="13" transform="rotate(65 1043.2 762)" font-family="Arial">CCG(P)</text>
+<rect x="1059.6" y="492.1" width="19.7" height="247.9" fill="#76B7B2"/>
+<text x="1069.5" y="762" font-size="13" transform="rotate(65 1069.5 762)" font-family="Arial">CAA(Q)</text>
+<rect x="1085.9" y="662.2" width="19.7" height="77.8" fill="#76B7B2"/>
+<text x="1095.8" y="762" font-size="13" transform="rotate(65 1095.8 762)" font-family="Arial">CAG(Q)</text>
+<rect x="1112.2" y="557.4" width="19.7" height="182.6" fill="#59A14F"/>
+<text x="1122.0" y="762" font-size="13" transform="rotate(65 1122.0 762)" font-family="Arial">CGT(R)</text>
+<rect x="1138.5" y="740.0" width="19.7" height="0.0" fill="#59A14F"/>
+<text x="1148.3" y="762" font-size="13" transform="rotate(65 1148.3 762)" font-family="Arial">CGC(R)</text>
+<rect x="1164.8" y="319.9" width="19.7" height="420.1" fill="#59A14F"/>
+<text x="1174.6" y="762" font-size="13" transform="rotate(65 1174.6 762)" font-family="Arial">CGA(R)</text>
+<rect x="1191.1" y="691.3" width="19.7" height="48.7" fill="#59A14F"/>
+<text x="1200.9" y="762" font-size="13" transform="rotate(65 1200.9 762)" font-family="Arial">CGG(R)</text>
+<rect x="1217.3" y="567.8" width="19.7" height="172.2" fill="#EDC948"/>
+<text x="1227.2" y="762" font-size="13" transform="rotate(65 1227.2 762)" font-family="Arial">TCT(S)</text>
+<rect x="1243.6" y="642.8" width="19.7" height="97.2" fill="#EDC948"/>
+<text x="1253.5" y="762" font-size="13" transform="rotate(65 1253.5 762)" font-family="Arial">TCC(S)</text>
+<rect x="1269.9" y="330.3" width="19.7" height="409.7" fill="#EDC948"/>
+<text x="1279.8" y="762" font-size="13" transform="rotate(65 1279.8 762)" font-family="Arial">TCA(S)</text>
+<rect x="1296.2" y="704.3" width="19.7" height="35.7" fill="#EDC948"/>
+<text x="1306.1" y="762" font-size="13" transform="rotate(65 1306.1 762)" font-family="Arial">TCG(S)</text>
+<rect x="1322.5" y="564.1" width="19.7" height="175.9" fill="#EDC948"/>
+<text x="1332.4" y="762" font-size="13" transform="rotate(65 1332.4 762)" font-family="Arial">AGT(S)</text>
+<rect x="1348.8" y="683.4" width="19.7" height="56.6" fill="#EDC948"/>
+<text x="1358.7" y="762" font-size="13" transform="rotate(65 1358.7 762)" font-family="Arial">AGC(S)</text>
+<rect x="1375.1" y="478.0" width="19.7" height="262.0" fill="#EDC948"/>
+<text x="1384.9" y="762" font-size="13" transform="rotate(65 1384.9 762)" font-family="Arial">AGA(S)</text>
+<rect x="1401.4" y="646.5" width="19.7" height="93.5" fill="#EDC948"/>
+<text x="1411.2" y="762" font-size="13" transform="rotate(65 1411.2 762)" font-family="Arial">AGG(S)</text>
+<rect x="1427.7" y="472.6" width="19.7" height="267.4" fill="#F28E2B"/>
+<text x="1437.5" y="762" font-size="13" transform="rotate(65 1437.5 762)" font-family="Arial">ACT(T)</text>
+<rect x="1454.0" y="668.0" width="19.7" height="72.0" fill="#F28E2B"/>
+<text x="1463.8" y="762" font-size="13" transform="rotate(65 1463.8 762)" font-family="Arial">ACC(T)</text>
+<rect x="1480.3" y="489.7" width="19.7" height="250.3" fill="#F28E2B"/>
+<text x="1490.1" y="762" font-size="13" transform="rotate(65 1490.1 762)" font-family="Arial">ACA(T)</text>
+<rect x="1506.5" y="678.3" width="19.7" height="61.7" fill="#F28E2B"/>
+<text x="1516.4" y="762" font-size="13" transform="rotate(65 1516.4 762)" font-family="Arial">ACG(T)</text>
+<rect x="1532.8" y="489.0" width="19.7" height="251.0" fill="#E15759"/>
+<text x="1542.7" y="762" font-size="13" transform="rotate(65 1542.7 762)" font-family="Arial">GTT(V)</text>
+<rect x="1559.1" y="693.7" width="19.7" height="46.3" fill="#E15759"/>
+<text x="1569.0" y="762" font-size="13" transform="rotate(65 1569.0 762)" font-family="Arial">GTC(V)</text>
+<rect x="1585.4" y="432.3" width="19.7" height="307.7" fill="#E15759"/>
+<text x="1595.3" y="762" font-size="13" transform="rotate(65 1595.3 762)" font-family="Arial">GTA(V)</text>
+<rect x="1611.7" y="693.7" width="19.7" height="46.3" fill="#E15759"/>
+<text x="1621.6" y="762" font-size="13" transform="rotate(65 1621.6 762)" font-family="Arial">GTG(V)</text>
+<rect x="1638.0" y="472.1" width="19.7" height="267.9" fill="#4E79A7"/>
+<text x="1647.9" y="762" font-size="13" transform="rotate(65 1647.9 762)" font-family="Arial">TGA(W)</text>
+<rect x="1664.3" y="682.2" width="19.7" height="57.8" fill="#4E79A7"/>
+<text x="1674.1" y="762" font-size="13" transform="rotate(65 1674.1 762)" font-family="Arial">TGG(W)</text>
+<rect x="1690.6" y="442.9" width="19.7" height="297.1" fill="#76B7B2"/>
+<text x="1700.4" y="762" font-size="13" transform="rotate(65 1700.4 762)" font-family="Arial">TAT(Y)</text>
+<rect x="1716.9" y="711.4" width="19.7" height="28.6" fill="#76B7B2"/>
+<text x="1726.7" y="762" font-size="13" transform="rotate(65 1726.7 762)" font-family="Arial">TAC(Y)</text>
+<text x="45" y="420" font-size="24" font-family="Arial" transform="rotate(-90 45 420)">RSCU</text>
+</svg>
